@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <Copyright>Alexandre Freire</Copyright>
+    <Description>Encode and Decode Base64 
+Example: Base64.Manager.Action.Encode("mystring")</Description>
+    <RepositoryUrl>https://github.com/alexandrefreiref/Base64.Manager</RepositoryUrl>
+    <PackageTags>B64, Base64</PackageTags>
+    <PackageReleaseNotes>Encode and Decode</PackageReleaseNotes>
+    <PackageLicenseFile>license.txt</PackageLicenseFile>
+    <PackageIcon>logo.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/alexandrefreiref/Base64.Manager</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="files\license.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="files\logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
