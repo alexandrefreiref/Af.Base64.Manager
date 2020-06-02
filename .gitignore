@@ -1,1 +1,7 @@
 .vs
+.vs/*
+bin/Debug/netstandard2.0/
+
+obj/
+
+bin/Release/netstandard2.0/

@@ -1,9 +1,0 @@
-C:\Users\Garage6\source\repos\Base64.Manager\bin\Release\netstandard2.0\Base64.Manager.deps.json
-C:\Users\Garage6\source\repos\Base64.Manager\bin\Release\netstandard2.0\Base64.Manager.dll
-C:\Users\Garage6\source\repos\Base64.Manager\bin\Release\netstandard2.0\Base64.Manager.pdb
-C:\Users\Garage6\source\repos\Base64.Manager\obj\Release\netstandard2.0\Base64.Manager.csprojAssemblyReference.cache
-C:\Users\Garage6\source\repos\Base64.Manager\obj\Release\netstandard2.0\Base64.Manager.csproj.CoreCompileInputs.cache
-C:\Users\Garage6\source\repos\Base64.Manager\obj\Release\netstandard2.0\Base64.Manager.AssemblyInfoInputs.cache
-C:\Users\Garage6\source\repos\Base64.Manager\obj\Release\netstandard2.0\Base64.Manager.AssemblyInfo.cs
-C:\Users\Garage6\source\repos\Base64.Manager\obj\Release\netstandard2.0\Base64.Manager.dll
-C:\Users\Garage6\source\repos\Base64.Manager\obj\Release\netstandard2.0\Base64.Manager.pdb
